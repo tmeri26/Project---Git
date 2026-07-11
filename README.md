@@ -5,6 +5,11 @@ Making changes to update the README.md file.
 
 Now working on Git-Project-Tutorial branch.
 
+This is an update to demonstrate branching on git.
+
+Another update from a branch to merge it later to main.
+
+Latest changes.
 Now working from github to update Git-Project-Tutorial branch.
 
 Making another changes on local machine to check on git hub later.
